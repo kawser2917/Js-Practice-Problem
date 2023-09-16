@@ -6,4 +6,4 @@ var bangla = 99.50;
 
 var totalMark =  mathmetics + biology + chemistry + physics + bangla;
 var avg = totalMark/5;
-console.log(avg)
+console.log(avg.toFixed(2))
